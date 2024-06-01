@@ -26,3 +26,6 @@ e.g. other record time progressions (i) in running (ii) over various distances (
 
 ### (3) Spillovers -> SUTVA Violation:
  DiD and IV on all Times (Y) around the relevant Threshold Th and Y0 (where Threshold associated with Bannister-like beliefs in a pre-period e.g. by assumption a sharp-limit)
+
+
+ ### (4) Extension 1: Estimating the degree of 'Bannister beliefs', if applicable for various other sports (e.g. ski-jumping)
