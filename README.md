@@ -25,7 +25,7 @@ An empirical investigation of the 'bannister' effect.
 e.g. other record time progressions (i) in running (ii) over various distances (iii) in other sports providing similar threshold values (with associated beliefs that no person can achieve better stated in a pre-period)
 
 ### (3) Spillovers -> SUTVA Violation:
- DiD and IV on all Times (Y) around the relevant Threshold Th and Y0 (where Threshold associated with Bannister-like beliefs in a pre-period e.g. by assumption a sharp-limit)
+ DiD (e.g. de-trending times by general times progression) and IV instrumenting the relevant Threshold Th and Y0 (where Threshold associated with Bannister-like beliefs in a pre-period e.g. by assumption a sharp-limit)
 
 
  ### (4) Extension 1: Estimating the degree of 'Bannister beliefs', if applicable for various other sports (e.g. ski-jumping)
