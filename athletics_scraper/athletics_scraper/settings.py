@@ -1,13 +1,3 @@
-FEEDS = {
-    'results.csv': {
-        'format': 'csv',
-        'encoding': 'utf8',
-        'store_empty': False,
-        'fields': ['rank', 'mark', 'competitor', 'dob', 'nat', 'pos', 'venue', 'date', 'result_score'],
-        'overwrite': True,
-    },
-}
-
 # Disable signal handling by Scrapy
 INSTALL_SHUTDOWN_HANDLERS = False
 
