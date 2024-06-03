@@ -1,6 +1,6 @@
 # The data stems from: https://bringbackthemile.com/history/progressions
 # Might contain errors
-# For all current data see:
+# For all current IAF data see:
 # https://worldathletics.org/records/all-time-toplists/middlelong/one-mile/all/men/senior
 
 import pandas as pd
