@@ -1,5 +1,7 @@
 # Bannister-RDD
 
+## "If i can do it, you can (Just) do it to!" - Identification/Falsification of the Bannister Effect using RDD
+
 An empirical investigation of the 'Bannister' effect.
 [Bannister Spec (Draft)](https://felixreichel.com/bannister_spec.pdf)
 
