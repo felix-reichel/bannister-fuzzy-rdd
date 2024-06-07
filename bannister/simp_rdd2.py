@@ -8,7 +8,7 @@ from static.Helpers import DataLoader
 data = DataLoader.load_data(FILE_PATH_RELATIVE)
 
 threshold_date = THRESHOLD_DATE
-data = DataLoader.process_data(data)
+data = DataLoader.process_data(data, '1954-05-06')
 
 
 def fit_rdd(data):
